@@ -1,0 +1,302 @@
+
+body{
+    font-family: 'Poppins','sans-serif';
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 26px;
+}
+.navbar-light .navbar-nav .nav-link :hover{
+    color: blue;
+}
+.Bennur_section{
+    background-color: #f0fff0;
+}
+.bot{
+
+background-color: #21b573;
+
+padding: 4px 35px;
+
+border-radius: 39px;
+
+margin-left: 20px;
+}
+.from{
+    
+}
+.learn h5{
+
+font-size: 16px;
+
+color: #FD511A;
+
+font-weight: 400;
+
+font-size: 15px;
+
+line-height: 24px;
+}
+.learn h1{
+    
+font-weight: 400;
+    
+font-size: 48px;
+    
+line-height: 70px;
+}
+.learn h1 span{
+    color: #21B573;
+}
+.learn p{
+    
+width: 403px;
+    
+height: 85px;
+    
+left: 205px;
+    
+top: 371px;
+}
+.btn-custom{
+    
+width: 153px;
+    
+height: 43px;
+    
+left: 205px;
+    
+top: 470px;
+    
+background-color: #21B573;
+    
+border-radius: 33px;
+    
+border: 1px solid #000000;
+}
+.images_section{
+
+background: #F8FFFB;
+
+padding: 50px 0;
+}
+.images_section img{
+    
+width: 50px;
+}
+.images_section h2{
+    
+font-size: 24px;
+    
+font-weight: 500;
+    
+color: #413960;
+    
+margin-top: 15px;
+}
+.images_section p{
+    
+color: #585859;
+    
+font-size: 16px;
+    
+line-height: 24px;
+}
+.images_section:hover{
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 3px solid blue;
+}
+
+.online_course{
+
+}
+.online_course h1{
+
+font-size: 36px;
+
+line-height: 54px;
+
+font-weight: 700;
+}
+.courses{
+
+}
+.courses img{
+    
+}
+.courses h3{
+    
+font-weight: 500;
+    
+font-size: 24px;
+    
+line-height: 36px;
+    
+color:  #413960;
+}
+.courses p{
+    
+width: 96px;
+    
+height: 24px;
+    
+left: 158px;
+    
+top: 1418px;
+    
+color: #585859;
+}
+.btn-online{
+
+width: 137px;
+
+height: 35px;
+
+left: 158px;
+
+top: 1461px;
+
+background: #21B573;
+
+border-radius: 33px;
+
+margin: 25px 0;
+}
+.online_course{
+
+}
+.online_course h1{
+    
+color: #413960;
+    
+font-size: 36px;
+    
+line-height: 54px;
+    
+font-weight: 700;
+}
+
+.masud{
+
+background-color: #ffff;
+
+padding: 25px;
+
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+
+border-radius: 18px;
+
+}
+.masud ul{
+    
+display: flex;
+    
+justify-content: space-between;
+    
+list-style: none;
+    
+margin: 0;
+    
+padding: 0;
+}
+.masud ul li{
+    
+
+    
+color:  #585859;
+    
+font-size: 16px;
+    
+line-height: 24px;
+    
+font-weight: 400;
+} 
+.masud ul li i{
+    
+margin-right: 15px;
+}
+.masud:hover{
+    border: 2px solid blue;
+}
+.test{
+
+}
+.test h2{
+    
+font-size: 36px;
+    
+font-weight: 700;
+    
+line-height: 54px;
+}
+
+.imag{
+
+width: 120px;
+
+margin-left: 95px;
+}
+.pera{
+
+font-size: 16px;
+
+line-height: 24px;
+
+font-weight: 500;
+
+margin-top: 20px;
+}
+footer{
+
+background-color: #282531;
+
+color: #ffff;
+}
+footer p{
+
+font-size: 16px;
+
+line-height: 30px;
+
+font-weight: 400;
+}
+footer ul{
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+
+/* color:  #CDCDCD; */
+}
+footer ul li{
+    
+color:  #CDCDCD;
+    
+font-size: 18px;
+    
+line-height: 30px;
+}
+footer ul li:first-child{
+    font-weight: 800;
+    color: #F8FFFB;
+}
+.date{
+
+}
+.date h6{
+    
+color:  #CDCDCD;
+}
+
+
+
+
